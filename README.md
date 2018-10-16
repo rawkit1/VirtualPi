@@ -1,16 +1,4 @@
 # VirtualPi
-Raspberry Pi-Powered Virtual Reality
+Raspberry Pi-Powered Virtual Reality.
 
-### Todo
-  - [ ] Research on image splitting
-  - [ ] Req hardware list (sensors, etc)
-  - [ ] Strip down headset and mount Pi
-  - [ ] Diagram
-  - [ ] Image splitting code
-  - [ ] Research on tracking
-  - [ ] Financial report
-  - [ ] Order parts
-  - [ ] Work on tracking code
-  .
-  .
-  .
+This is a project in the very early stages designed to bring virtual reality to the Raspberry Pi. We're taking some parts from a stripped-down VR Box and using it as a base for the first prototype. You can check out what we've done and need to do in the issues page.
